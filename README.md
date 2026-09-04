@@ -49,3 +49,20 @@ https://affordablekey.com/
 - [Software Licensing Guides](https://github.com/affordablekey-com/software-licensing-guides)
 
 For additional Windows-related resources, explore the guides and quick references available in this profile.
+
+## 📖 Guides
+
+### Getting Started
+- [Windows 11 Basic Settings](./windows-11-basic-settings.md)
+
+### Troubleshooting
+- [Windows 11 Troubleshooting](./windows-11-troubleshooting.md)
+- [Windows 11 Startup Apps Guide](./windows-11-startup-apps-guide.md)
+
+### Commands & Tools
+- [Windows 11 Useful Commands](./windows-11-useful-commands.md)
+
+## 🔗 Related Resources
+
+- [Microsoft Office Guides](https://github.com/affordablekey-com/microsoft-office-guides)
+- [Software Licensing Guides](https://github.com/affordablekey-com/software-licensing-guides)
