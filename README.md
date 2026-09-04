@@ -42,3 +42,10 @@ https://affordablekey.com/
 ---
 
 ⭐ If you find these resources useful, feel free to explore the repository and check back for new guides.
+
+## 🔗 Related Guides
+
+- [Microsoft Office Guides](https://github.com/affordablekey-com/microsoft-office-guides)
+- [Software Licensing Guides](https://github.com/affordablekey-com/software-licensing-guides)
+
+For additional Windows-related resources, explore the guides and quick references available in this profile.
