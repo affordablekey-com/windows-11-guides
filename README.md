@@ -58,6 +58,7 @@ For additional Windows-related resources, explore the guides and quick reference
 ### Troubleshooting
 - [Windows 11 Troubleshooting](./windows-11-troubleshooting.md)
 - [Windows 11 Startup Apps Guide](./windows-11-startup-apps-guide.md)
+- [Windows 11 Startup Programs Guide](./windows-11-startup-programs-guide.md)
 
 ### Commands & Tools
 - [Windows 11 Useful Commands](./windows-11-useful-commands.md)
@@ -66,3 +67,5 @@ For additional Windows-related resources, explore the guides and quick reference
 
 - [Microsoft Office Guides](https://github.com/affordablekey-com/microsoft-office-guides)
 - [Software Licensing Guides](https://github.com/affordablekey-com/software-licensing-guides)
+ 
+  - 
